@@ -1,0 +1,42 @@
+@font-face {
+    font-family: ComicSans;
+    src: url(fonts/ComicSans.ttf);
+}
+
+.headerclass{
+    background: white;
+    color: black;
+    font-family: ComicSans;
+    font-size: 100%;
+}
+.usernameclass{
+    background: white;
+    color: black;
+    font-family: ComicSans;
+    font-size: 100%;
+}
+.verifybutton{
+    background-color: white;
+    color: black;
+    width: 12%;
+    height: 7%;
+}
+.loginbutton{
+    background-color: white;
+    color: black;
+    width: 12%;
+    height: 7%;
+}
+.verifybuttontext{
+    font-family: ComicSans;
+    font-size: 75%;
+}
+.loginbuttontext{
+    font-family: ComicSans;
+    font-size: 75%;
+}
+.failedlogintext{
+    font-family: ComicSans;
+    font-size: 75%;
+    color: red;
+}
